@@ -1,0 +1,35 @@
+*{
+    background-color: bisque;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    background-color: wheat;
+}
+
+p{
+    line-height: 1.6;
+    font-size: 1.05rem;
+    margin: 20px 0;
+}
+
+strong{
+    font-weight: bold;
+}
+
+h1
+h2
+h3
+h4
+h5
+h6{
+    color: #1b5848;
+    font-weight: normal;
+
+}
+img{
+    width: 300px;
+    height: 150px;
+}
